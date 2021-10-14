@@ -1,0 +1,162 @@
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\TechnicalTestApp.dll.config
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\TechnicalTestApp.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\TechnicalTestApp.pdb
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csc.exe
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csc.exe.config
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csc.rsp
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csi.exe
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csi.exe.config
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csi.rsp
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.AppContext.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Collections.Immutable.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Console.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Globalization.Calendars.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.Compression.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.FileSystem.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Net.Http.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Net.Sockets.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Reflection.Metadata.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.ValueTuple.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.XPath.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\vbc.exe
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\vbc.exe.config
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\vbc.rsp
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\VBCSCompiler.exe
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\roslyn\VBCSCompiler.exe.config
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Antlr3.Runtime.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\AspNet.ScriptManager.bootstrap.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\AspNet.ScriptManager.jQuery.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.Web.Infrastructure.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Newtonsoft.Json.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\System.Web.Optimization.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\WebGrease.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\System.Web.Optimization.xml
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Newtonsoft.Json.xml
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Antlr3.Runtime.pdb
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csprojAssemblyReference.cache
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csproj.CoreCompileInputs.cache
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csproj.CopyComplete
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.pdb
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\AjaxControlToolkit.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.SqlServer.dll
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.xml
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.SqlServer.xml
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.Migrations.InitialCreate.resources
+H:\Project\ASP.NET\Venturas Ltd\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csproj.GenerateResource.cache
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\TechnicalTestApp.dll.config
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\TechnicalTestApp.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\TechnicalTestApp.pdb
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csc.exe
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csc.exe.config
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csc.rsp
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csi.exe
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csi.exe.config
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\csi.rsp
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.AppContext.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Console.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Net.Http.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\vbc.exe
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\vbc.exe.config
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\vbc.rsp
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\AjaxControlToolkit.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Antlr3.Runtime.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.SqlServer.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Newtonsoft.Json.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\System.Web.Optimization.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\WebGrease.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.xml
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\EntityFramework.SqlServer.xml
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\System.Web.Optimization.xml
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Newtonsoft.Json.xml
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Antlr3.Runtime.pdb
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csprojAssemblyReference.cache
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.Migrations.InitialCreate.resources
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csproj.GenerateResource.cache
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csproj.CoreCompileInputs.cache
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.csproj.CopyComplete
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.dll
+C:\Users\AMINUR\Desktop\VENTURAS\TechnicalTestApp\TechnicalTestApp\obj\Debug\TechnicalTestApp.pdb
