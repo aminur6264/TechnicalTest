@@ -18,11 +18,6 @@
 
 
   <!-- ABOUT THE PROJECT -->
-## About The Project
-
-
-This project is develop for Zoobook Systems LLC 
-
 
 
 ### Built With
