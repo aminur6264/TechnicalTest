@@ -44,6 +44,7 @@ To get a local copy up and running follow these simple example steps.
 ## Installation
 
 1. Configure Connection String in web.config
-2. Run the application.
+2. Go to Package Manager Console. Type 'Update-Database' and hit enter
+3. Run the application.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
